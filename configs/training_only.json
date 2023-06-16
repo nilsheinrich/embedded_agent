@@ -1,0 +1,7 @@
+{
+    "levels": [
+        "level_training.json"
+    ],
+    "repeats": 1,
+    "log_suffix": "_test"
+}

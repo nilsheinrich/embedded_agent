@@ -1,0 +1,24 @@
+{
+    "layers": [
+        {
+            "type": "CompensationLayer",
+            "name": "Compensation",
+            "color": "Yellow"
+        },
+        {
+            "type": "VisionLayer",
+            "name": "Vision",
+            "color": "Blue"
+        },
+        {
+            "type": "MotorControl",
+            "name": "MC",
+            "color": "Red"
+        }
+        
+    ],
+    "parameters": {
+        "my_id": "Sensorimotor Control",
+        "server": "127.0.0.1"
+    }
+}
